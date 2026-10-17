@@ -24,5 +24,6 @@ int main()
     int n;
     scanf ("%d",&n);
     affiche1 (n);
+     scanf ("%d",&n);
     return 0;
 }
