@@ -27,5 +27,9 @@ int main()
      scanf ("%d",&n);
       affiche1 (n);
       printf ("this is for m4 commmit ");
+
+       printf ("\n");
+        printf ("\n");
+
     return 0;
 }
