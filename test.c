@@ -26,6 +26,6 @@ int main()
     affiche1 (n);
      scanf ("%d",&n);
       affiche1 (n);
-      printf ("this is for m4 commmit ");
+      printf ("this is from b2 branch ");
     return 0;
 }
