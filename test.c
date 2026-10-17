@@ -27,5 +27,6 @@ int main()
      scanf ("%d",&n);
       affiche1 (n);
       printf ("this is from b2 branch ");
+      printf ("this is from b2 branch ");
     return 0;
 }
